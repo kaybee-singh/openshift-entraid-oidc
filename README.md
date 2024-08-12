@@ -1,0 +1,1 @@
+# openshift-entraid-oidc
